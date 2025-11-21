@@ -1,1 +1,34 @@
+🚀 Compute Lab: EC2 Launch
+🎯 Objectives
+This lab covered the creation, resizing, management, and monitoring of an Amazon EC2 instance in AWS.
 
+✅ Tasks
+1. 🖥️ Launching EC2 Instance
+
+2. Created a new EC2 instance named Web Server.
+Chose Windows and t3.micro instance type.
+📊 Monitor Your Instance
+
+3. Checked CPU usage and system status in the EC2 Monitoring tab to confirm the instance was running correctly.
+🔒 Update Security Group and Access the Web Server
+
+4. Added an inbound rule for HTTP (port 80) from anywhere to allow access to the web server.
+🔄 Resize Instance and EBS Volume
+
+5. Stopped the instance.
+Changed the instance type to t3.micro.
+Increased EBS volume from 8 GB to 10 GB.
+🛡️ Test Termination Protection
+
+6. Enabled termination protection.
+Tried to terminate the instance and confirmed AWS blocked the action until termination protection was disabled.
+
+⚡ Challenges
+No challenges faced; the lab was straightforward.
+
+💡 Takeaways
+✅ Ensure security group inbound rules are correctly configured for required access.
+
+🛡️ Enable termination protection to prevent
+
+📸Screenshots
