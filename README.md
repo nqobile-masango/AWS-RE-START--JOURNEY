@@ -2,7 +2,7 @@
 
 ## AWS Restart Programme Journey 📚
 
-Welcome to my AWS Restart Programme journey! This repository documents my learning path, projects, and achievements as I progress through the AWS Restart Programme—a cloud computing skills training initiative by Amazon Web Services (AWS). 🌟✨
+Welcome to my AWS Restart Programme journey! This repository documents my learning path, projects, and achievements as I progress through the AWS Restart Programme a cloud computing skills training initiative by Amazon Web Services (AWS). 🌟✨
 
 ---
 
@@ -52,7 +52,7 @@ AWS Restart is a full-time, classroom-based training program developed by Amazon
 - Labs: Create IAM users and groups, attach policies, create a role for EC2, test temporary credentials.
 - Deliverables: Minimal-privilege IAM policy examples and a secure user setup.
 
-- ###Week 7 — Serverless & event-driven architectures
+- ### Week 7 — Serverless & event-driven architectures
 - Topics: AWS Lambda, API Gateway, S3 triggers, IAM roles for Lambda, cold starts and best practices.
 - Labs: Create a Lambda function triggered by S3 or API Gateway, test end-to-end flow.
 - Deliverables: Serverless function with README and test events.
