@@ -1,0 +1,30 @@
+Here’s a summary for Windows users to connect to an Amazon Linux EC2 instance via SSH using PuTTY:
+
+Windows – SSH to EC2 Instance
+
+Open the "Details" dropdown in your lab.
+
+Click "Show" to reveal the credentials.
+
+Download the .ppk file (e.g., labuser.ppk).
+
+Note the Public IP Address of the EC2 instance.
+
+Download and install PuTTY if you don't have it [from the official site].
+
+Open putty.exe.
+
+In PuTTY:
+
+Go to Session tab.
+
+In Host Name, enter:
+ec2-user@<Public-IP> (replace <Public-IP> with actual address)
+
+Go to Connection > SSH > Auth.
+
+Under Private key file for authentication, browse and select the .ppk file.
+
+Click Open to start the SSH session.
+
+You're now authenticated as ec2-user into your EC2 Linux instance.
