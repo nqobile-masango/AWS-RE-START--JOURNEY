@@ -12,6 +12,7 @@
   - File systems and permissions
   - Shell scripting basics
   - Command line basics
+  - process control.
     ### Networking Basics
     - Firewalls & ports
     - IP address & subnets
