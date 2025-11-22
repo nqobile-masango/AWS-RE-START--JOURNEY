@@ -15,6 +15,8 @@
     ### Networking Basics
     - Firewalls & ports
     - IP address & subnets
+    - security groups
+    - NACLs, internet gateway setup.
 ### . Security Concepts
 - IAM (Identity & Access Management)
 - Threat awareness & best practices
