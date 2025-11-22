@@ -20,3 +20,9 @@
 - Threat awareness & best practices
 - Encryption basics
 - Secure configurations
+-  ###  Databases & Storage Services 
+- RDS (MySQL/PostgreSQL) 
+- DynamoDB basics 
+- backups 
+- snapshots 
+- connection best practices 
