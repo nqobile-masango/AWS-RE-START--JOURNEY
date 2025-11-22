@@ -28,4 +28,11 @@
 - DynamoDB basics 
 - backups 
 - snapshots 
-- connection best practices 
+- connection best practices
+###  Serverless & event-driven architectures
+- AWS Lambda (serverless functions)
+-  API Gateway (HTTP APIs)
+- S3 triggers (event-driven uploads)
+- IAM roles for Lambda (execution role) ,
+- λCold startsand mitigation strategies,
+- Serverless best practices .
