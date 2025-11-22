@@ -1,1 +1,12 @@
 
+Mac/Linux Users – SSH to EC2 Instance:
+Open Terminal on your Mac or Linux system.
+Download the private key file .(labuser.pem)
+Change file permission (to secure the key):
+chmod 400 labuser.pem
+Get the EC2 public IP address from the lab/console.
+SSH into the instance using:
+ssh -i labuser.pem ec2-user@
+Replace with the actual IP.
+This authenticates you as ec2-user using the provided key file.
+Type yes when prompted to allow the first connection to this remote SSH server. Because you are using a key pair for authentication.
