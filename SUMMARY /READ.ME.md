@@ -36,3 +36,14 @@
 - IAM roles for Lambda (execution role) ,
 - λCold startsand mitigation strategies,
 - Serverless best practices .
+ ###  Cloud Architecture Foundations
+- Scalability & elasticity
+- Shared responsibility model
+- Cost optimization principles
+- High availability
+- Fault tolerance
+###  Professional Skills
+- Problem-solving
+- Communication & teamwork
+- Interview & career readiness
+- Career Goals
