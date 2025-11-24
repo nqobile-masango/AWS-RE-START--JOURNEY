@@ -46,20 +46,20 @@ Amazon Virtual Private Cloud (Amazon VPC)
 ### MAC'OS  and LINUX  USERS
 - Mac/Linux Users – SSH to EC2 Instance:
 1. Open Terminal on your Mac or Linux system.
-2. Download the private key file .(labuser.pem)
+2. Download the private key file .(`labuser.pem`)
 3. Change file permission (to secure the key):
-- chmod 400 labuser.pem
+- `chmod 400 labuser.pem`
 4. Get the EC2 public IP address from the lab/console.
 5. SSH into the instance using:
-- ssh -i labuser.pem ec2-user@<public-ip-address>
-5. Replace <public-ip-address> with the actual IP.
+-` ssh -i labuser.pem ec2-user@<public-ip-address>`
+5. Replace `<public-ip-address>` with the actual IP.
 - This authenticates you as ec2-user using the provided key file.
-- Type yes when prompted to allow the first connection to this remote SSH server.
+- Type `yes` when prompted to allow the first connection to this remote SSH server.
 Because you are using a key pair for authentication.
 
 ### Task 2: Exercise - Explore the Linux Man Pages
 ### 1. Open the Manual Pages:
-- In your PuTTY terminal window, type the following command and press Enter:Codeman man
+- In your PuTTY terminal window, type the following command and press Enter:Code `man` `man`
 ### 2. Viewing the Man Page:
 -The terminal will display the man page for the man command. This page contains useful information about how to use man, including its options and functionalities.
 ### 3.Identify Major Sections:
