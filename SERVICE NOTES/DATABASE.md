@@ -1,7 +1,7 @@
+###  AWS Database Service Note
 <img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/3266ee4c-1dc0-46b7-b764-d5865263b822" />
 
-###  AWS Database Service Note
-### 1. What Are AWS Database Services?
+### 1. WHAT IS AWS Database Services?
 
 - AWS provides a wide range of fully managed database solutions designed for relational, NoSQL, graph, cache, and analytics workloads—offering scalability, high availability, and automated maintenance.
 
