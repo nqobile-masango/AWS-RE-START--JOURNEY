@@ -3,5 +3,78 @@
 - The program covered cloud fundamentals, core AWS services, and hands-on labs.  
 - Completed as part of my journey to become a certified cloud practitioner.
 
+### My Certificates
 
+### 📘 Generative AI for Decision Makers
+- Awarded on September 12, 2025
+
+### Overview:
+- This course provides a clear understanding of generative AI technologies and their impact on businesses. It explains how generative models create new content, such as text, images, and audio, and how decision-makers can leverage these technologies to drive innovation and improve efficiency.
+
+<img width="739" height="532" alt="al decisin makers" src="https://github.com/user-attachments/assets/7044fe49-e96a-42e3-88a6-df269e229864" />
+
+### 📘 AI Practitioner Learning Plan
+- Awarded on 12 September 2025
+
+### Overview:
+- This certificate verifies the successful completion of the AI Practitioner Learning Plan. The course introduced foundational concepts in Artificial Intelligence, including machine learning principles, responsible AI, and real-world applications.
+
+<img width="597" height="421" alt="practioner" src="https://github.com/user-attachments/assets/b597fe04-dd17-49a5-bda6-a250f1657929" />
+
+### 📘 AWS Certified Cloud Practitioner
+- Awarded on  15 October 2025
+### Overview:
+- I am currently exploring and building foundational knowledge in cloud computing through the AWS Certified Cloud Practitioner course. This certification is designed for individuals with no prior IT or cloud experience, like myself, and helps develop a strong understanding of the core concepts of AWS and cloud technology.
+
+<img width="701" height="547" alt="cloud qust" src="https://github.com/user-attachments/assets/e611deba-8104-4ef2-86f5-12e6f9ea4de6" />
+
+### 📘 Introduction to AWS Identity and Access Management 
+- Awarded on 12 November 2025
+
+### Overview:
+- This course introduces the core concepts of AWS Identity and Access Management (IAM), a fundamental service for securing AWS environments. IAM enables you to control who can access your AWS resources, what actions they can perform, and under what conditions. Understanding IAM is critical for managing permissions and maintaining security in the cloud.
+
+<img width="520" height="405" alt="iam" src="https://github.com/user-attachments/assets/8c35b923-ee78-4d0f-8d7c-48a26ddea2a8" />
+
+### 📘 AWS SimuLearn: Databases in Practice
+- Awarded on 03 December 2025 Overview:
+
+- AWS SimuLearn: Databases in Practice taught me the basics of how databases work in the cloud. I learned the difference between relational (like Amazon RDS) and non-relational (like DynamoDB) databases, when to use each, and how AWS helps manage them for better performance, security, and scalability.
+
+<img width="706" height="540" alt="database" src="https://github.com/user-attachments/assets/8949af4f-76b4-4fe9-b480-5e9d014fd3bf" />
+
+### 📘 AWS SimuLearn: Networking Concepts
+- Awarded on 03 December 2025
+
+### Overview:
+AWS SimuLearn: Networking Concepts helped me understand how networking works in the AWS Cloud. I learned about key components like VPCs (Virtual Private Clouds), subnets, internet gateways, route tables, and security groups. These tools allow you to control how resources connect to each other and to the internet securely and efficiently.
+
+<img width="705" height="545" alt="networking" src="https://github.com/user-attachments/assets/1567420e-a4c1-44d3-a5f7-7d6db5847c3e" />
+
+### 📘 AWS SimuLearn: Core Security Concepts
+- Awarded on 02 December 2025
+
+### Overview:
+- AWS SimuLearn: Core Security Concepts introduced me to the essential security practices within AWS. I learned about Identity and Access Management (IAM), encryption, firewalls (security groups and NACLs), and monitoring tools like AWS CloudTrail. These concepts are key to protecting resources, managing access, and maintaining a secure
+
+<img width="710" height="545" alt="security certificate" src="https://github.com/user-attachments/assets/e7db1ef8-aa7c-456c-9329-f095cfc6b37c" />
+
+
+### 📘 AWS SimuLearn: File Systems in the Cloud
+- Awarded on 04 December 2025
+
+Overview:
+
+-  AWS SimuLearn: File Systems in the Cloud introduced me to how AWS handles file storage using services like Amazon EFS and Amazon FSx. I learned how cloud-based file systems support shared access, scalability, and durability, making it easier to store and access files from multiple EC2 instances efficiently.
+  
+<img width="705" height="548" alt="storage" src="https://github.com/user-attachments/assets/c49874bf-1fa4-4f43-9d73-9a8c80376872" />
+
+### 📘 AWS SnimuLearn: Containers
+- Awarded on 04 December 2025
+
+### Overview:
+-  AWS SnimuLearn: Containers introduced me how you run and manage container on AWS.I learned how to use ECS,EKS and Fargate for orchestration.Deploying and Scaling containerised apps.Manage container security and networing.
+
+<img width="702" height="553" alt="containers" src="https://github.com/user-attachments/assets/ffde3d0c-1c31-4351-83e0-10838e9c65bf" />
+  
 
