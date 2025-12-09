@@ -1,10 +1,12 @@
-Project 2: 3D E-Commerce Platform Architecture on AWS
 
-3D E-COMMERCE ARCHITECTURE ON AWS.
-
-Group 3
-
-01-12-2025
+Design a 3D E-Commerce Platform Architecture on AWS
+Scenario
+You are part of a startup team launching a next-generation 3D e-commerce web application.
+This platform will allow users to interact with 3D models of products (e.g., furniture, gadgets,
+fashion items) before purchasing. Millions of users are expected globally, and the experience
+must be fast, highly available, secure, and cost-efficient.
+As a Cloud Practitioner, your role is to design the cloud architecture using AWSservices to
+support this 3D application and meet key business and technical requirements.
 
 ARCHITECTURE DIAGRAM
 
