@@ -58,12 +58,6 @@ Overview:
   
 <img width="705" height="548" alt="storage" src="https://github.com/user-attachments/assets/c49874bf-1fa4-4f43-9d73-9a8c80376872" />
 
-### 📘 AWS SnimuLearn: Containers
-- Awarded on 04 December 2025
 
-### Overview:
--  AWS SnimuLearn: Containers introduced me how you run and manage container on AWS.I learned how to use ECS,EKS and Fargate for orchestration.Deploying and Scaling containerised apps.Manage container security and networing.
-
-<img width="702" height="553" alt="containers" src="https://github.com/user-attachments/assets/ffde3d0c-1c31-4351-83e0-10838e9c65bf" />
   
 
