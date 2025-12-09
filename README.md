@@ -102,8 +102,11 @@ Each project folder contains README notes, steps I followed, and screenshots whe
 - Lab: S3 static website — hosting a demo static site with public/secure buckets
 - Infrastructure: CloudFormation templates used to provision small stacks
 --- 
-- Project 1:
-  S3 static website — hosting a demo static site with public/secure buckets.
+
+Project 1: Building and host a static website for a restaurant + Present AWS Migration benefits.
+### Overview
+Create a static website for a restaurant experiencing operational challenges. The restaurant is having a high volume of customer bookings, and current system cannot keep up, orders are being mixed up and/or misplaced. The owner wants to use a static website to streamline customer interactions and improve booking/order management. Additionally, prepaRe a presentation on the benefits of migrating to AWS.
+
   
 - Project 2:
   
