@@ -114,7 +114,7 @@ https://github.com/nqobile-masango/AWS-RE-START--JOURNEY/tree/main/PROJECTS/STAT
  https://github.com/nqobile-masango/AWS-RE-START--JOURNEY/blob/main/PROJECTS/PROJECT%3A2/3D%20E-Commerce%20Platform%20Architecture%20on%20AWS.md
 ---
 - Project 3:COMING SOON!!!
---
+---
 
 ### (See the /labs and /projects folders for details.)
 
