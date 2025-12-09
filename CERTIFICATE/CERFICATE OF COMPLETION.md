@@ -1,9 +1,3 @@
-###  AWS RE/START CERTIFICATES  
-- This  contains my AWS re/Start program certificate.  
-- The program covered cloud fundamentals, core AWS services, and hands-on labs.  
-- Completed as part of my journey to become a certified cloud practitioner.
-
-### My Certificates
 
 ### 📘 Generative AI for Decision Makers
 - Awarded on September 12, 2025
@@ -21,14 +15,7 @@
 
 <img width="597" height="421" alt="practioner" src="https://github.com/user-attachments/assets/b597fe04-dd17-49a5-bda6-a250f1657929" />
 
-#
 
-
-
-
-### 
-
-### 📘
 
 
 
