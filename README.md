@@ -36,14 +36,12 @@ AWS Restart is a full-time, classroom-based training program developed by Amazon
 ### Week 2: AWS Core Services 🖥️
 - 🚀 Deployed EC2 instances and used S3 for storage.
 - 🛡️ Configured IAM users and policies.
-- **Deliverables:
-- ** Bootstrapped EC2 instance with SSH access 🪪and a public S3 bucket used for a demo asset🪣.
+- **Deliverables:** Bootstrapped EC2 instance with SSH access 🪪and a public S3 bucket used for a demo asset🪣.
 
 ### Week 3: Linux Basics 🐧
 - 📂 Navigated the Linux CLI.
 - 🗄️ Managed files and directories.
-- **Deliverables:
-- ** Collection of small scripts📑 (backups♻️, log rotation🔄️, monitoring checks✅)
+- **Deliverables:** Collection of small scripts📑 (backups♻️, log rotation🔄️, monitoring checks✅)
 
 ### Week 4: Databases & Storage Services 🗄️
 
