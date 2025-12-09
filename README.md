@@ -107,6 +107,7 @@ Project 1: Building and host a static website for a restaurant + Present AWS Mig
 ### Overview
 Create a static website for a restaurant experiencing operational challenges. The restaurant is having a high volume of customer bookings, and current system cannot keep up, orders are being mixed up and/or misplaced. The owner wants to use a static website to streamline customer interactions and improve booking/order management. Additionally, prepaRe a presentation on the benefits of migrating to AWS.
 
+https://github.com/nqobile-masango/AWS-RE-START--JOURNEY/tree/main/PROJECTS/STATIC%20WEBSITE
   
 - Project 2:
   
