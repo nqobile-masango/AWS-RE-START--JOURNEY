@@ -21,20 +21,9 @@
 
 <img width="597" height="421" alt="practioner" src="https://github.com/user-attachments/assets/b597fe04-dd17-49a5-bda6-a250f1657929" />
 
-### 📘 AWS Certified Cloud Practitioner
-- Awarded on  15 October 2025
-### Overview:
-- I am currently exploring and building foundational knowledge in cloud computing through the AWS Certified Cloud Practitioner course. This certification is designed for individuals with no prior IT or cloud experience, like myself, and helps develop a strong understanding of the core concepts of AWS and cloud technology.
+#
 
-<img width="701" height="547" alt="cloud qust" src="https://github.com/user-attachments/assets/e611deba-8104-4ef2-86f5-12e6f9ea4de6" />
 
-### 📘 Introduction to AWS Identity and Access Management 
-- Awarded on 12 November 2025
-
-### Overview:
-- This course introduces the core concepts of AWS Identity and Access Management (IAM), a fundamental service for securing AWS environments. IAM enables you to control who can access your AWS resources, what actions they can perform, and under what conditions. Understanding IAM is critical for managing permissions and maintaining security in the cloud.
-
-<img width="520" height="405" alt="iam" src="https://github.com/user-attachments/assets/8c35b923-ee78-4d0f-8d7c-48a26ddea2a8" />
 
 ### 📘 AWS SimuLearn: Databases in Practice
 - Awarded on 03 December 2025 Overview:
