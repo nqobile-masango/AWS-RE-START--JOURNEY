@@ -103,15 +103,17 @@ Each project folder contains README notes, steps I followed, and screenshots whe
 - Infrastructure: CloudFormation templates used to provision small stacks
 --- 
 
-Project 1: Building and host a static website for a restaurant + Present AWS Migration benefits.
+### Project 1: Building and host a static website for a restaurant + Present AWS Migration benefits.
 ### Overview
 Create a static website for a restaurant experiencing operational challenges. The restaurant is having a high volume of customer bookings, and current system cannot keep up, orders are being mixed up and/or misplaced. The owner wants to use a static website to streamline customer interactions and improve booking/order management. Additionally, prepaRe a presentation on the benefits of migrating to AWS.
 
 https://github.com/nqobile-masango/AWS-RE-START--JOURNEY/tree/main/PROJECTS/STATIC%20WEBSITE
   
-- Project 2:
+###  Project 2: Design a 3D E-Commerce Platform Architecture on AWS 
+### OVERVIEW
+- Design a 3D E-Commerce Platform Architecture on AWS You are part of a startup team launching a next-generation 3D e-commerce web application. This platform will allow users to interact with 3D models of products (e.g., furniture, gadgets, fashion items) before purchasing. Millions of users are expected globally, and the experience must be fast, highly available, secure, and cost-efficient. As a Cloud Practitioner, your role is to design the cloud architecture using AWSservices to support this 3D application and meet key business and technical requirements.
   
-- Project 3:
+- Project 3: ### COMING SOON!!!
 
 
 ### (See the /labs and /projects folders for details.)
