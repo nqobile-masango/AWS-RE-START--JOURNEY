@@ -1,10 +1,10 @@
 ### 📝 Lab Overview
 
-- Goal: `Write your first Python program using AWS Cloud9 IDE`.
+- **Goal: Write your first Python program using AWS Cloud9 IDE**.
 
 ### Language: Python (version 3.6.x).
 
-Estimated time: 45 minutes.
+**Estimated time**: 45 minutes.
 
 ### ⚙️ Setting Up the Lab Environment
 
@@ -67,3 +67,34 @@ Confirm output: **Hello World**.
 - Select End Lab and confirm.
 
 System deletes resources and displays **Ended AWS Lab Successfully**.
+
+### 🏆 Wins
+
+- Successfully set up and accessed the **AWS Cloud9 IDE** environment.
+
+- Learned how to **create and save a Python file** `(hello-world.py)` in the correct directory.
+
+-  Practiced using the **terminal to check Python versions (`python, python2, python3`).
+
+- Understood the difference between **Python 2.x and 3.x** and why the lab uses **Python 3.6.x**.
+
+- Wrote and executed the classic **Hello, World program**, confirming the environment works correctly.
+
+- Gained confidence in navigating the **AWS Management Console** and handling pop-ups.
+
+- Completed the lab within the estimated time frame (45 minutes).
+
+###⚡ Challenges
+- Initial setup required careful attention to pop-up blockers and browser permissions.
+
+- Remembering to save the file in the correct directory (`/home/ec2-user/environment`).
+
+- Distinguishing between different Python versions and ensuring the correct one (3.6.x) was used.
+
+- Navigating the Cloud9 IDE menus **(File > New From Template > Python File)** could be confusing for beginners.
+
+- Handling unexpected pop-up messages like `.c9/project.settings changed `or third-party content prompts.
+
+- Understanding backward compatibility and syntax differences between Python 2.x and 3.x might feel overwhelming at first.
+
+- Ending the lab correctly to ensure resources were deleted without issues.
