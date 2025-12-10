@@ -15,22 +15,29 @@
 - Open AWS Management Console (auto login).
 
 - Navigate to **Services** > **Cloud9** and open the environment card `reStart-python-cloud9`.
+<img width="1278" height="622" alt="PHYTHON 1" src="https://github.com/user-attachments/assets/2e860228-ee96-4c64-a557-4f3588a40133" />
 
 - Handle pop-ups by choosing **Discard** or **No** when prompted.
 
 ### 📂 Creating Your Python File
 
 - In Cloud9 IDE: **File > New From Template > Python File**
-
+  
+  <img width="1095" height="776" alt="PHYTHON 2" src="https://github.com/user-attachments/assets/20d2b999-47b5-4350-8cbe-c44b0760fbca" />
+  
 - Delete sample code.
-
+  
 - Save as `hello-world.py in /home/ec2-user/environment`.
+  
+ <img width="781" height="890" alt="PHYTHON 3" src="https://github.com/user-attachments/assets/63723875-bf8d-4022-a19f-8d87f0fa6548" />
 
 ### 💻 Accessing the Terminal
 
 - Open a new terminal session.
 
 - Use `pwd` to confirm directory `(/home/ec2-user/environment)`.
+- 
+<img width="1148" height="748" alt="phython 4" src="https://github.com/user-attachments/assets/2524567a-e218-4d11-8d08-7f735a37a38a" />
 
 ### Check Python versions with:
 
@@ -39,6 +46,10 @@
 - `python2 --version`
 
 - `python3 --version`
+
+  <img width="1152" height="886" alt="python 5" src="https://github.com/user-attachments/assets/e30c745e-4a46-458d-8490-f43ecf75915c" />
+
+<img width="1144" height="883" alt="phython 6" src="https://github.com/user-attachments/assets/832df7e1-adcc-4046-a76c-e63f7e566cc5" />
 
 ### 🐍 Exercise 1: Introducing Python
 
@@ -59,6 +70,8 @@ Enter code:
 `print("Hello, World")`
 
 - Save and run the file.
+  
+<img width="1255" height="887" alt="phython 7" src="https://github.com/user-attachments/assets/7dd43fee-a3b6-435c-a59f-ae724b5a7bb5" />
 
 Confirm output: **Hello World**.
 
