@@ -1,4 +1,5 @@
-### Developing Machine Learning Solutions
+### 📘 Developing Machine Learning Solutions
+Awarded on 11 December 2025
 ### OVERVIEW
 - In this machine learning course, I learnt about the machine learning lifecycle, and how to use AWS services at every stage.
 - Additionally, I discovered the diverse sources for machine learning models and learn techniques to evaluate their performance. 
