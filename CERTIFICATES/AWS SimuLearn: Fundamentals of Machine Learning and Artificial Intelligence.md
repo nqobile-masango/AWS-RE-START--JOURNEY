@@ -1,5 +1,6 @@
 ### 📘 Fundamentals of Machine Learning and Artificial Intelligence
-
+--- 
+Awarded on 11 December 2025
 ### OVERVIEW
 - In this course, I learned about the foundations of machine learning (ML) and artificial intelligence (AI).
  - I explored the connections between AI, ML, deep learning, and the emerging field of generative artificial intelligence (generative AI).
